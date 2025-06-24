@@ -5,7 +5,7 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-red)](https://seaborn.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Plots-purple)](https://plotly.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## 📖 Project Overview
 
@@ -67,7 +67,7 @@ pip install pandas numpy matplotlib seaborn plotly warnings datetime
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/walmart-sales-analysis.git
+git clone https://github.com/maghous/walmart-sales-analysis.git
 cd walmart-sales-analysis
 ```
 
@@ -182,18 +182,8 @@ walmart-sales-analysis/
 ├── data/
 │   └── walmart_sales_data.csv          # Dataset (add your data here)
 │
-├── src/
-│   ├── data_processing.py              # Data preprocessing functions
-│   ├── analysis.py                     # Core analysis functions
-│   └── visualization.py                # Plotting and dashboard functions
-│
-├── outputs/
-│   ├── figures/                        # Generated visualizations
-│   └── reports/                        # Analysis reports
-│
-├── requirements.txt                     # Python dependencies
-├── README.md                           # Project documentation
-└── LICENSE                             # MIT License
+└──  README.md                           # Project documentation
+
 ```
 
 ## 🔬 Methodology
@@ -236,16 +226,6 @@ walmart-sales-analysis/
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-### Development Setup
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -253,18 +233,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The data science community for methodology inspiration
 - Contributors and reviewers for their valuable feedback
 
-## 📞 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/walmart-sales-analysis](https://github.com/yourusername/walmart-sales-analysis)
-
----
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/walmart-sales-analysis.svg?style=social&label=Star)](https://github.com/yourusername/walmart-sales-analysis)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/walmart-sales-analysis.svg?style=social&label=Fork)](https://github.com/yourusername/walmart-sales-analysis/fork)
+[![GitHub stars](https://img.shields.io/github/stars/maghous/walmart-sales-analysis.svg?style=social&label=Star)](https://github.com/maghous/walmart-sales-analysis)
+[![GitHub forks](https://img.shields.io/github/forks/maghous/walmart-sales-analysis.svg?style=social&label=Fork)](https://github.com/maghous/walmart-sales-analysis/fork)
 
 ---
 
